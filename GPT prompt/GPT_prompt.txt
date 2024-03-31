@@ -1,0 +1,5 @@
+Please execute these 2 tasks:
+
+Task 1) Please review the attached resumes and evaluate which of the two candidates would be a good fit for a product manager position. Explain your reasoning. Say explicitly one name I should hire.
+
+Task 2) Rate both resumes on a scale of 1-5 for suitability in hiring for the role at our company.  Provide the score.
